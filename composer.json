@@ -4,6 +4,7 @@
     "description": "Symfony2 bundle for draw knockout and league tables",
     "keywords": ["drawtable", "twig"],
     "homepage": "https://github.com/edgartebar/DrawTableBundle",
+    "license": "MIT",
     "authors": [
         {
             "name": "Edgar Tebar",
