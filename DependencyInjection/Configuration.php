@@ -1,6 +1,6 @@
 <?php
 
-namespace DrawTable\DrawTableBundle\DependencyInjection;
+namespace EdgarTebar\DrawTableBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

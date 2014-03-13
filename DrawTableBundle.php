@@ -1,6 +1,6 @@
 <?php
 
-namespace DrawTable\DrawTableBundle;
+namespace EdgarTebar\DrawTableBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
