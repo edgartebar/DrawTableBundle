@@ -1,10 +1,5 @@
 <?php
 
-/*
- * Copyright (c) 2012 Arulu Inversiones SL
- * Todos los derechos reservados
- */
-
 namespace EdgarTebar\DrawTableBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
